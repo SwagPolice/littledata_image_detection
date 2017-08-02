@@ -8,3 +8,6 @@ The goal is to offer the possibility to:
 - train the model
 - test it
 - eventually convert it to .mlmodel for Apple CoreML and to Tensorflow for Android apps.
+
+Of course, this repository is more a collection of useful functions and scripts rather than an original program.
+Each source is quoted in their respective scripts.
